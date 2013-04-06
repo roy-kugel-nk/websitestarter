@@ -1,0 +1,26 @@
+Reference
+
+[directories]
+protected = framework, library ... it prohibit to user editing.
+public = user code, script or resouces ... user script, images.
+
+[class reference]
+
+protected.Starter
+ program starter.
+ this start program and echo HTML.
+
+protected.UrlController
+
+protected.Common
+
+protected.view.ViewClass
+ view phase super class.
+ user will make some pages as extention of this class.
+
+public.Init
+ initialize class.
+
+public.UrlMap
+ URL mapper class.
+

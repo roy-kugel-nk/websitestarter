@@ -1,0 +1,17 @@
+website starter set.
+This program provide you to make website to easily.
+
+v0.01
+
+[author]
+roy-kugel-nk
+https://github.com/roy-kugel-nk
+
+[plans]
+user need no tags.
+just GUI based contents management system.
+
+[note]
+MVC base.
+user needs few steps to create website.
+ActiveRecord (unneeded?).
